@@ -15,3 +15,10 @@
         box-sizing: border-box;
     }
 </style>
+
+<!--CDN Axios-->
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<!--CDN Vue-->
+<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+<!--CDN SweetAlert-->
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
